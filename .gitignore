@@ -1,0 +1,26 @@
+[Library]
+[Temp]
+[Obj]
+[Build]
+[Builds]
+[Logs]
+[UserSettings]
+
+# Visual Studio  Rider  VS Code が生成する一時ファイル
+.csproj
+.unityproj
+.sln
+.suo
+.tmp
+.user
+.userprefs
+.pidb
+.booproj
+.svd
+.pdb
+.opendb
+.VC.db
+
+# OSが生成する隠しファイル
+.DS_Store
+Thumbs.db
